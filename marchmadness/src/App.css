@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+/* CSS for the cards so that they have boxes around them */
+.Team {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
